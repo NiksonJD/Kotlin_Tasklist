@@ -1,10 +1,10 @@
-This is the Tasklist project I made myself.
+This is the Parking Lot project I made myself.
 
-<p>It's always good to have something that can remind you about important tasks. It may be simple paper notes or a sophisticated app. In this project, you will create a text-based program that shows tasks, deadlines, and priorities.
+<p>Cities are becoming smarter to meet our needs, and parking spaces are an essential part of urban design. As a developer, you can help improve them. In this project, you will create a parking lot management program that keeps track of vacant spots and parked cars.
 
 <b>Learning outcomes</b><br>
-You'll learn how to handle input, output, lists, and files. Moreover, you'll get to know the basics of JSON which is the most popular data interchange format. For the latter, you will use appropriate Kotlin libraries.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/237?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/237</a>
+Become confident with the basics of coding: console input and output, loops, and conditions. You will also learn how to use lists and perform different operations on them.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/75?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/75</a>
 
-Here's the link to the project: https://hyperskill.org/projects/237
+Here's the link to the project: https://hyperskill.org/projects/75
 
 Check out my profile: https://hyperskill.org/profile/341456230
